@@ -82,9 +82,16 @@ sayHello(function(a,b){
 
 //Predefined functions
 //1.Settimeout()
-
+//setTimeOut accepts two parameter - 1.function and 2. time in milliseconds.
 
 setTimeout(function(){
     console.log("Print this message after 3 secs")
 }, 3000);
+
+
+//setInterval - prints for every mentioned time
+setInterval(function(){
+
+    console.log("Divya")
+},2000);
 

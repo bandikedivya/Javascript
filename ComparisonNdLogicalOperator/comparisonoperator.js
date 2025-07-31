@@ -37,7 +37,7 @@ if(student_marks>65)
 {
      console.log("%c ✅ 🎉  Student passed the exam", "color: green");
 }
-else if(student_marks<65)
+else (student_marks<65)
 {
      console.log("%c ❌ 😡 Student has not failed the exam", "color: red");
 }

@@ -22,7 +22,7 @@
 //     }
 //     finally 
 //     {
-//         console.log("Server Down");
+//         console.log("🛑 Server Down");
 //     }
     
  
@@ -37,7 +37,7 @@
 //     }
 //     finally 
 //     {
-//         console.log("Server Down");
+//         console.log("🛑 Server Down");
 //     }
     
 
@@ -51,7 +51,7 @@
     // {
     //   let Restname1 = "Empire Restuarant";
     //   Restname1 = Restname1.toUpperCase();
-    //   throw new Error("Server is Down, Please try after some time.")
+    //   throw new Error("🛑Server is Down, Please try after some time.")
     //   console.log(`Welcome to the ${Restname1}`); // shows undefined.
     // }
     // catch(ex)
@@ -60,7 +60,7 @@
     // }
     // finally 
     // {
-    //     console.log("Server Down");
+    //     console.log("🛑 Server Down");
     // }
 
 
@@ -76,7 +76,7 @@
           console.log(`Welcome to the ${Restname1}`); // shows undefined.
       }
       else {
-          throw new Error("Server is Down, Please try after some time.")
+          throw new Error("🛑 Server is Down, Please try after some time.")
       }
     }
     catch(ex)
@@ -85,7 +85,7 @@
     }
     finally 
     {
-        console.log("Server Down");
+        console.log("🛑 Server Down");
     }
     
 

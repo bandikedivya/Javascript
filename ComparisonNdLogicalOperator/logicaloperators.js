@@ -11,11 +11,11 @@ console.log(stud_name == "Kavya" && stud_age == 21); //false && false - false
 
 if(stud_name == "divya" && stud_age == 25)
 {
-    console.log(" %c ✅ Student exists in the List", "color:green");
+    console.log(" %c ✅🎉 Student exists in the List", "color:green");
 }
 else
 {
-    console.log("%c  ❌ Student does not exists in the List", "color:red");
+    console.log("%c  ❌  Student does not exists in the List", "color:red");
 }
 
 

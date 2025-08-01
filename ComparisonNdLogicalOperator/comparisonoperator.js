@@ -16,12 +16,12 @@ console.log(2 > 5); //false
 console.log(2 >= 5) ; //false
 console.log(5 < 10) ; //true
 console.log(8 <=  10); //true
-// ===
+// ===2
 
 
 // Type coercison 
-
 //conversion of one type to another type 
+
 console.log( 1 == "1");  //js will convert the string 1 ["1"] to number and then compare the value. // returns true.
 console.log(2 =="2"); //returns true.
 
